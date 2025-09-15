@@ -1,29 +1,42 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there!%20I'm%20Saveliy&fontAlignY=40" />
+```bash
+▗▖ ▗▖▗▄▄▄▖▗▖  ▗▖    ▗▄▄▄▖▗▖ ▗▖▗▄▄▄▖▗▄▄▖ ▗▄▄▄▖
+▐▌ ▐▌▐▌    ▝▚▞▘       █  ▐▌ ▐▌▐▌   ▐▌ ▐▌▐▌   
+▐▛▀▜▌▐▛▀▀▘  ▐▌        █  ▐▛▀▜▌▐▛▀▀▘▐▛▀▚▖▐▛▀▀▘
+▐▌ ▐▌▐▙▄▄▖  ▐▌        █  ▐▌ ▐▌▐▙▄▄▖▐▌ ▐▌▐▙▄▄▖                                                                                                                                                           
+```
+```bash
+savelii@github:~$ whoami
 
-## 🧑‍💻 Frontend Developer / HTML Coder 
+> Hi, Im Savelii, junior frontend-developer. 
 
-I specialize in building modern, responsive, and high-performance web interfaces.  
-I value clean code, attention to detail, and always keep up with the latest frontend trends.
+savelii@github:~$ ls ./tech_stack
 
-### 💻 My skills:
-- HTML5, CSS3, JavaScript (ES6+) 
-- Cross-browser and responsive layout
-- Flexbox, Grid, SCSS/SASS, BEM
-- Animations and interactivity (CSS/JS)
-- Website performance optimization
-- Working with Figma, Photoshop designs
-- Basic knowledge of Git, Webpack, Gulp
+languages/    frameworks_libs/    tools/
 
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8cafed6d-1e3f-4d8f-9cc9-01c496949263" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bf4831df-83c2-4a82-8564-a384f0cae165" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2b499198-2496-4af9-a722-4c4b90eb33fd" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/886c77d5-daff-4abb-a3e5-30234e071933" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5d769459-81d2-4067-a5e1-0d2f32550657" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c69e92a4-072e-4084-ab68-bb32076e2bda" />
+savelii@github:~$ ls ./tech_stack/languages
 
-### 📍 Saint Petersburg, Russia
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e460beba-50fd-4200-91c3-5d0ac3d2b0fb" /> Telegram :
-[@s_shinkevich](https://t.me/s_shinkevich) 
+savelii@github:~$ ls ./tech_stack/frameworks_libs
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Always%20open%20to%20new%20projects%20and%20exciting%20challenges!&fontAlignY=63&section=footer&fontSize=25" />
+- React
+- Bootstrap 
+- Sass/SCSS 
+savelii@github:~$ ls ./tech_stack/tools
+
+- Git & GitHub 
+- Figma 
+- VSCode
+
+savelii@github:~$ cat contact.info
+
+- Email:      s.shinkevich@cloud.com
+- Telegram:   @s_shinkevich
+
+savelii@github:~$ echo "always open to new projects and exciting challenges!"
+
+savelii@github:~$ exit
+```
+
